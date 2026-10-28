@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en-ca">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="author" content="Thea Clegg">
+        <meta name="description" content="Some of my favorite quotes.">
+        <title>My Favorite Quotes</title>
+        <link rel="stylesheet" href="../css/main.css" type="text/css">
+        <script src="../script/main.js" type="module"></script>
+        <script src="../script/quotes.js" type="module"></script>
+    </head>
+    <body id="docBody">
+        <!-- Note: this page is reused from the old site, and as such may have errors and/or inaccuracies. -->
+        <!-- If there are any problems here, let me know. -->
+        <h1 id="head2">My Favourite Quotes</h1>
+        <p>Click the button below to get a random of my favorite quotes! Or, get them all listed.</p>
+        <div id="quoteDiv" hidden></div>
+        <div id="controlDiv"><fieldset id="controls" disabled>
+            <button class="showButton" type="button" id="randButton">Give Me a Quote</button><br>
+            <button class="showButton" type="button" id="listButton">List the Quotes</button><br>
+        </fieldset></div>
+        <button id="resetButton" disabled hidden>Reset</button>
+        <div id="endDiv"></div>
+        <br><hr>
+        <button class="pageNav" id="homeButton" type="button" onclick="window.location.href='./home.html'">&#8962;</button>
+    </body>
+</html>

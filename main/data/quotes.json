@@ -1,0 +1,15 @@
+[
+    {"text":"Ubi concordia, ibi victoria.", "author":"Publilius Syrus", "source":"Setentiae", "subsource":"327", "paraphrased":true, "translation":"Where there is unity, there shall you find victory."},
+    {"text":"Una salus victis, nullam sperare salutem.", "author":"Publius Vergilius Maro", "source":"Aeneid", "subsource":"Book II.354", "paraphrased":false, "translation":"The only salvation of the defeated is to hope for no salvation."},
+    {"text":"Flectere si nequeo superos, Acheronta movebo.", "author":"Publius Vergilius Maro", "source":"Aeneid", "subsource":"Book VII.312", "paraphrased":false, "translation":"If I cannot bend the will of Heaven, I shall move Hell instead."},
+    {"text":"Dum spiro, spero.", "author":"Theocritus", "source":null, "subsource":null, "paraphrased":true, "translation":"While I breathe, I hope."},
+    {"text":"μνάσεσθαί τινά ἀμμέων.", "author":"Sappho", "source":null, "subsource":"Fragment 147", "paraphrased":true, "translation":"Someone will remember us."},
+    {"text":"Only two things are infinite, the universe and human stupidity, and I'm not sure about the former.", "author":"Albert Einstein", "source":null, "subsource":null, "paraphrased":false, "translation":null},
+    {"text":"The world is a dangerous place to live; not because of the people who are evil, but because of the people who don't do anything about it.", "author":"Albert Einstein", "source":null, "subsource":null, "paraphrased":false, "translation":null},
+    {"text":"That which will not bend must break, and that which can be destroyed by truth should never be spared its demise.", "author":"Lucien Greaves", "source":"The Invocation of The Satanic Temple", "subsource":null, "paraphrased":false, "translation":null},
+    {"text":"Hope in the shadow of fear is the world’s most powerful motivator.", "author":"Neal Shusterman", "source":"Scythe", "subsource":"Chapter 1, Page 8", "paraphrased":false, "translation":null},
+    {"text":"I decided as long as I'm going to hell, I might as well do it thoroughly.", "author":"Stephanie Meyer", "source":"Twilight", "subsource":"Chapter 5, Page 87", "paraphrased":false, "translation":null},
+    {"text":"Every time someone steps up and says who they are, the world becomes a better, more interesting place.", "author":"Raymond Holt", "source":"Brooklyn Nine-Nine", "subsource":"Season 5, Episode 10", "paraphrased":false, "translation":null},
+    {"text":"Whenever you find yourself on the side of the majority, it is time to pause and reflect.", "author":"Mark Twain", "source":null, "subsource":null, "paraphrased":false, "translation":null},
+    {"text":"Fairy tales are more than true: not because they tell us dragons exist, but because they tell us dragons can be beaten.", "author":"Neil Gaiman", "source":null, "subsource":null, "paraphrased":false, "translation":null}
+]
